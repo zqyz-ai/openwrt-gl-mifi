@@ -1,9 +1,9 @@
 name: OpenWrt Firmware For GL-MiFi
 
-# on:
-#   push:
-#     branches:
-#     - master
+on:
+  push:
+    branches:
+    - master
 
 on:
   push:
